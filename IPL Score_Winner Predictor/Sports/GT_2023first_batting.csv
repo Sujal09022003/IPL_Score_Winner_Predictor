@@ -1,0 +1,1006 @@
+mid ,date ,venue,bat_team,bow_team,batsman,bowler,runs,wickets,overs,runs_last5,wickets_last 5,striker,nonstriker,total
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,saha,umeshyadav,0,0,0.1,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,saha,umeshyadav,1,0,0.2,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,gill,umeshyadav,2,0,0.3,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,saha,umeshyadav,2,0,0.4,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,saha,umeshyadav,3,0,0.5,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,gill,umeshyadav,4,0,0.6,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,gill,thakur,5,0,1.1,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,saha,thakur,9,0,1.2,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,saha,thakur,10,0,1.3,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,gill,thakur,11,0,1.4,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,saha,thakur,12,0,1.5,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,saha,thakur,13,0,1.5,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,gill,thakur,17,0,1.6,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,saha,umeshyadav,18,0,2.1,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,gill,umeshyadav,19,0,2.2,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,saha,umeshyadav,19,0,2.3,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,saha,umeshyadav,19,0,2.4,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,saha,umeshyadav,20,0,2.5,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,saha,umeshyadav,24,0,2.5,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,saha,umeshyadav,24,0,2.6,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,gill,ferguson,24,0,3.1,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,gill,ferguson,25,0,3.2,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,saha,ferguson,29,0,3.3,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,saha,ferguson,29,0,3.4,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,saha,ferguson,30,0,3.5,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,saha,ferguson,31,0,3.5,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,gill,ferguson,31,0,3.6,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,saha,narine,33,0,4.1,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,saha,narine,33,1,4.2,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,sai sudharshan,narine,34,1,4.3,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,sai sudharshan,narine,34,1,4.3,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,sai sudharshan,narine,34,1,4.4,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,sai sudharshan,narine,38,1,4.5,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,sai sudharshan,narine,38,1,4.6,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,gill,chakravarthy,39,1,5.1,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,sai sudharshan,chakravarthy,40,1,5.2,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,gill,chakravarthy,40,1,5.3,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,gill,chakravarthy,45,1,5.4,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,gill,chakravarthy,49,1,5.4,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,gill,chakravarthy,53,1,5.5,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,gill,chakravarthy,54,1,5.6,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,gill,narine,55,1,6.1,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,sai sudharshan,narine,56,1,6.2,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,gill,narine,56,1,6.3,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,gill,narine,57,1,6.4,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,sai sudharshan,narine,58,1,6.5,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,gill,narine,62,1,6.6,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,sai sudharshan,suyashsharma,63,1,7.1,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,gill,suyashsharma,63,1,7.2,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,gill,suyashsharma,64,1,7.3,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,sai sudharshan,suyashsharma,68,1,7.4,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,sai sudharshan,suyashsharma,68,1,7.5,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,sai sudharshan,suyashsharma,68,1,7.6,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,gill,chakravarthy,69,1,8.1,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,sai sudharshan,chakravarthy,70,1,8.2,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,gill,chakravarthy,71,1,8.3,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,sai sudharshan,chakravarthy,72,1,8.4,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,gill,chakravarthy,73,1,8.5,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,sai sudharshan,chakravarthy,79,1,8.6,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,gill,suyashsharma,79,1,9.1,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,gill,suyashsharma,83,1,9.2,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,gill,suyashsharma,84,1,9.3,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,gill,suyashsharma,85,1,9.3,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,sai sudharshan,suyashsharma,86,1,9.4,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,gill,suyashsharma,87,1,9.5,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,sai sudharshan,suyashsharma,88,1,9.6,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,sai sudharshan,ferguson,88,1,10.1,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,sai sudharshan,ferguson,88,1,10.2,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,sai sudharshan,ferguson,89,1,10.3,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,gill,ferguson,89,1,10.4,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,gill,ferguson,90,1,10.5,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,sai sudharshan,ferguson,91,1,10.6,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,sai sudharshan,narine,97,1,11.1,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,sai sudharshan,narine,98,1,11.2,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,gill,narine,100,1,11.3,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,gill,narine,100,2,11.4,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,Abinav Manohar,narine,100,2,11.5,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,Abinav Manohar,narine,101,2,11.6,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,Abinav Manohar,umeshyadav,105,2,12.1,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,Abinav Manohar,umeshyadav,109,2,12.2,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,Abinav Manohar,umeshyadav,113,2,12.3,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,Abinav Manohar,umeshyadav,113,2,12.4,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,Abinav Manohar,umeshyadav,114,2,12.5,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,sai sudharshan,umeshyadav,115,2,12.6,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,sai sudharshan,suyashsharma,115,2,13.1,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,sai sudharshan,suyashsharma,118,2,13.2,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,Abinav Manohar,suyashsharma,118,3,13.3,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,Vijay Shankar,suyashsharma,119,3,13.4,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,sai sudharshan,suyashsharma,121,3,13.5,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,sai sudharshan,suyashsharma,123,3,13.6,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,Vijay Shankar,thakur,124,3,14.1,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,sai sudharshan,thakur,128,3,14.2,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,sai sudharshan,thakur,128,3,14.3,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,sai sudharshan,thakur,130,3,14.4,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,sai sudharshan,thakur,131,3,14.5,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,Vijay Shankar,thakur,132,3,14.6,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,Vijay Shankar,suyashsharma,134,3,15.1,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,Vijay Shankar,suyashsharma,136,3,15.2,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,Vijay Shankar,suyashsharma,140,3,15.3,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,Vijay Shankar,suyashsharma,142,3,15.4,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,Vijay Shankar,suyashsharma,143,3,15.5,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,sai sudharshan,suyashsharma,144,3,15.6,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,sai sudharshan,ferguson,146,3,16.1,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,sai sudharshan,ferguson,147,3,16.2,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,Vijay Shankar,ferguson,148,3,16.3,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,sai sudharshan,ferguson,149,3,16.4,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,Vijay Shankar,ferguson,150,3,16.5,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,sai sudharshan,ferguson,151,3,16.6,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,sai sudharshan,narine,152,3,17.1,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,Vijay Shankar,narine,153,3,17.2,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,sai sudharshan,narine,153,4,17.3,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,David Miller,narine,154,4,17.4,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,Vijay Shankar,narine,158,4,17.5,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,Vijay Shankar,narine,159,4,17.6,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,Vijay Shankar,ferguson,164,4,18.1,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,Vijay Shankar,ferguson,166,4,18.1,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,Vijay Shankar,ferguson,172,4,18.2,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,Vijay Shankar,ferguson,176,4,18.3,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,Vijay Shankar,ferguson,177,4,18.4,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,David Miller,ferguson,178,4,18.5,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,Vijay Shankar,ferguson,184,4,18.6,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,David Miller,thakur,185,4,19.1,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,Vijay Shankar,thakur,185,4,19.2,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,Vijay Shankar,thakur,191,4,19.3,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,Vijay Shankar,thakur,197,4,19.4,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,Vijay Shankar,thakur,203,4,19.5,,,,,204
+13,09-04-2023,Narendra-Modi-stadium,Gujarat-Titans,KolkataKnightRiders,Vijay Shankar,thakur,204,4,19.6,,,,,204
+,,,,,,,,,,,,,,
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,saha,Boult,1,0,0.1,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,saha,Boult,1,0,0.1,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,saha,Boult,5,0,0.2,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,saha,Boult,5,1,0.3,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,sai sudharshan,Boult,6,1,0.4,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,gill,Boult,6,1,0.5,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,gill,Boult,6,1,0.6,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,sai sudharshan,Sandeep Sharma,6,1,1.1,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,sai sudharshan,Sandeep Sharma,6,1,1.2,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,sai sudharshan,Sandeep Sharma,10,1,1.3,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,sai sudharshan,Sandeep Sharma,11,1,1.4,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,gill,Sandeep Sharma,11,1,1.5,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,gill,Sandeep Sharma,11,1,1.6,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,sai sudharshan,Boult,12,1,2.1,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,sai sudharshan,Boult,16,1,2.1,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,sai sudharshan,Boult,17,1,2.2,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,sai sudharshan,Boult,17,1,2.3,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,sai sudharshan,Boult,17,1,2.4,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,sai sudharshan,Boult,20,1,2.5,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,gill,Boult,24,1,2.6,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,sai sudharshan,Sandeep Sharma,24,1,3.1,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,sai sudharshan,Sandeep Sharma,24,1,3.2,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,sai sudharshan,Sandeep Sharma,24,1,3.3,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,sai sudharshan,Sandeep Sharma,25,1,3.4,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,gill,Sandeep Sharma,26,1,3.5,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,sai sudharshan,Sandeep Sharma,27,1,3.6,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,sai sudharshan,Zampa,29,1,4.1,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,sai sudharshan,Zampa,30,1,4.2,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,gill,Zampa,31,1,4.3,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,sai sudharshan,Zampa,31,1,4.4,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,sai sudharshan,Zampa,32,1,4.5,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,gill,Zampa,32,2,4.6,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,gill,Ashwin,36,2,5.1,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,gill,Ashwin,37,2,5.2,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,Hardik Pandya,Ashwin,37,2,5.3,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,Hardik Pandya,Ashwin,38,2,5.4,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,gill,Ashwin,38,2,5.5,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,gill,Ashwin,42,2,5.6,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,Hardik Pandya,Zampa,42,2,6.1,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,Hardik Pandya,Zampa,48,2,6.2,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,Hardik Pandya,Zampa,52,2,6.3,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,Hardik Pandya,Zampa,53,2,6.4,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,gill,Zampa,54,2,6.5,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,Hardik Pandya,Zampa,55,2,6.6,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,Hardik Pandya,Ashwin,56,2,7.1,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,gill,Ashwin,60,2,7.2,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,gill,Ashwin,61,2,7.3,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,Hardik Pandya,Ashwin,65,2,7.4,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,Hardik Pandya,Ashwin,66,2,7.5,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,gill,Ashwin,72,2,7.6,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,Hardik Pandya,Chahal,72,2,8.1,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,Hardik Pandya,Chahal,73,2,8.2,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,gill,Chahal,76,2,8.3,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,Hardik Pandya,Chahal,76,2,8.4,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,Hardik Pandya,Chahal,77,2,8.5,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,gill,Chahal,78,2,8.6,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,gill,Boult,79,2,9.1,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,Hardik Pandya,Boult,80,2,9.2,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,gill,Boult,81,2,9.3,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,Hardik Pandya,Boult,85,2,9.4,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,Hardik Pandya,Boult,86,2,9.5,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,gill,Boult,88,2,9.6,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,Hardik Pandya,Chahal,89,2,10.1,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,gill,Chahal,90,2,10.2,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,Hardik Pandya,Chahal,91,2,10.3,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,Hardik Pandya,Chahal,91,3,10.3,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,David Miller,Chahal,92,3,10.4,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,gill,Chahal,93,3,10.5,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,David Miller,Chahal,94,3,10.6,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,David Miller,Ashwin,95,3,11.1,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,gill,Ashwin,96,3,11.2,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,David Miller,Ashwin,96,3,11.3,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,David Miller,Ashwin,97,3,11.4,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,gill,Ashwin,98,3,11.5,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,David Miller,Ashwin,100,3,11.6,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,gill,Zampa,101,3,12.1,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,David Miller,Zampa,101,3,12.2,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,David Miller,Zampa,101,3,12.3,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,David Miller,Zampa,102,3,12.4,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,gill,Zampa,102,3,12.5,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,gill,Zampa,102,3,12.6,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,David Miller,Ashwin,102,3,13.1,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,David Miller,Ashwin,103,3,13.2,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,gill,Ashwin,104,3,13.3,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,David Miller,Ashwin,105,3,13.4,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,gill,Ashwin,106,3,13.5,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,David Miller,Ashwin,107,3,13.6,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,David Miller,Chahal,108,3,14.1,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,gill,Chahal,109,3,14.2,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,David Miller,Chahal,115,3,14.3,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,David Miller,Chahal,117,3,14.4,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,David Miller,Chahal,118,3,14.5,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,gill,Chahal,119,3,14.6,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,gill,Sandeep Sharma,121,3,15.1,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,gill,Sandeep Sharma,121,4,15.2,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,Abhinav Manohar,Sandeep Sharma,122,4,15.3,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,David Miller,Sandeep Sharma,123,4,15.4,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,Abhinav Manohar,Sandeep Sharma,124,4,15.5,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,David Miller,Sandeep Sharma,125,4,15.6,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,David Miller,Chahal,126,4,16.1,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,Abhinav Manohar,Chahal,127,4,16.2,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,David Miller,Chahal,128,4,16.3,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,Abhinav Manohar,Chahal,129,4,16.4,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,David Miller,Chahal,131,4,16.5,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,David Miller,Chahal,137,4,16.6,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,Abhinav Manohar,Boult,138,4,17.1,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,David Miller,Boult,139,4,17.2,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,Abhinav Manohar,Boult,145,4,17.3,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,Abhinav Manohar,Boult,151,4,17.4,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,Abhinav Manohar,Boult,153,4,17.5,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,Abhinav Manohar,Boult,154,4,17.6,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,Abhinav Manohar,Zampa,154,4,18.1,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,Abhinav Manohar,Zampa,155,4,18.2,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,David Miller,Zampa,159,4,18.3,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,David Miller,Zampa,160,4,18.4,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,Abhinav Manohar,Zampa,166,4,18.5,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,Abhinav Manohar,Zampa,166,5,18.6,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,David Miller,Sandeep Sharma,167,5,19.1,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,David Miller,Sandeep Sharma,167,5,19.1,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,David Miller,Sandeep Sharma,171,5,19.2,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,David Miller,Sandeep Sharma,175,5,19.3,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,David Miller,Sandeep Sharma,175,6,19.4,,,,,177
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,Rashid Khan,Sandeep Sharma,175,7,19.5,,,,,
+23,16-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Rajasthan Royals,Rahul Tewatia,Sandeep Sharma,177,7,19.6,,,,,
+,,,,,,,,,,,,,,
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,saha,Naveen-ul-Halaq,0,0,0.1,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,saha,Naveen-ul-Halaq,2,0,0.2,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,saha,Naveen-ul-Halaq,4,0,0.3,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,saha,Naveen-ul-Halaq,4,0,0.4,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,saha,Naveen-ul-Halaq,4,0,0.5,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,saha,Naveen-ul-Halaq,4,0,0.6,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,gill,Krunal Pandya,4,0,1.1,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,gill,Krunal Pandya,4,1,1.2,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,Hardik Pandya,Krunal Pandya,4,1,1.3,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,Hardik Pandya,Krunal Pandya,4,1,1.4,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,Hardik Pandya,Krunal Pandya,5,1,1.5,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,saha,Krunal Pandya,5,1,1.6,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,Hardik Pandya,Naveen-ul-Halaq,7,1,2.1,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,Hardik Pandya,Naveen-ul-Halaq,8,1,2.2,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,saha,Naveen-ul-Halaq,12,1,2.3,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,saha,Naveen-ul-Halaq,12,1,2.4,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,saha,Naveen-ul-Halaq,12,1,2.5,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,saha,Naveen-ul-Halaq,13,1,2.6,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,saha,Krunal Pandya,17,1,3.1,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,saha,Krunal Pandya,19,1,3.2,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,saha,Krunal Pandya,19,1,3.3,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,saha,Krunal Pandya,20,1,3.4,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,Hardik Pandya,Krunal Pandya,20,1,3.5,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,Hardik Pandya,Krunal Pandya,20,1,3.6,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,saha,Avesh Khan,22,1,4.1,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,saha,Avesh Khan,24,1,4.2,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,saha,Avesh Khan,28,1,4.3,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,saha,Avesh Khan,29,1,4.4,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,Hardik Pandya,Avesh Khan,29,1,4.5,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,Hardik Pandya,Avesh Khan,29,1,4.6,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,saha,Ravi Bishnoi,33,1,5.1,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,saha,Ravi Bishnoi,37,1,5.2,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,saha,Ravi Bishnoi,37,1,5.3,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,saha,Ravi Bishnoi,37,1,5.4,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,saha,Ravi Bishnoi,38,1,5.5,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,Hardik Pandya,Ravi Bishnoi,40,1,5.6,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,saha,Krunal Pandya,41,1,6.1,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,Hardik Pandya,Krunal Pandya,41,1,6.2,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,Hardik Pandya,Krunal Pandya,42,1,6.3,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,saha,Krunal Pandya,42,1,6.4,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,saha,Krunal Pandya,44,1,6.5,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,saha,Krunal Pandya,44,1,6.6,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,Hardik Pandya,Stoinis,46,1,7.1,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,Hardik Pandya,Stoinis,46,1,7.2,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,Hardik Pandya,Stoinis,46,1,7.3,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,Hardik Pandya,Stoinis,47,1,7.4,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,saha,Stoinis,47,1,7.5,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,saha,Stoinis,51,1,7.6,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,Hardik Pandya,Ravi Bishnoi,52,1,8.1,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,saha,Ravi Bishnoi,53,1,8.2,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,Hardik Pandya,Ravi Bishnoi,57,1,8.3,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,Hardik Pandya,Ravi Bishnoi,58,1,8.4,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,saha,Ravi Bishnoi,59,1,8.5,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,Hardik Pandya,Ravi Bishnoi,65,1,8.6,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,saha,Mishra,65,1,9.1,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,saha,Mishra,66,1,9.2,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,Hardik Pandya,Mishra,67,1,9.3,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,saha,Mishra,69,1,9.4,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,saha,Mishra,70,1,9.5,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,Hardik Pandya,Mishra,71,1,9.6,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,Hardik Pandya,Krunal Pandya,71,1,10.1,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,Hardik Pandya,Krunal Pandya,72,1,10.2,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,saha,Krunal Pandya,72,2,10.3,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,Abhinav Manohar,Krunal Pandya,73,2,10.4,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,Hardik Pandya,Krunal Pandya,74,2,10.5,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,Abhinav Manohar,Krunal Pandya,75,2,10.6,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,Abhinav Manohar,Mishra,75,2,11.1,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,Abhinav Manohar,Mishra,76,2,11.2,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,Hardik Pandya,Mishra,77,2,11.3,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,Abhinav Manohar,Mishra,77,3,11.4,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,Vijay Shankar,Mishra,77,3,11.5,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,Vijay Shankar,Mishra,78,3,11.6,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,Vijay Shankar,Avesh Khan,79,3,12.1,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,Hardik Pandya,Avesh Khan,79,3,12.2,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,Hardik Pandya,Avesh Khan,79,3,12.3,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,Hardik Pandya,Avesh Khan,80,3,12.4,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,Vijay Shankar,Avesh Khan,84,3,12.5,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,Vijay Shankar,Avesh Khan,85,3,12.6,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,Vijay Shankar,Stoinis,85,3,13.1,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,Vijay Shankar,Stoinis,86,3,13.2,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,Hardik Pandya,Stoinis,87,3,13.3,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,Vijay Shankar,Stoinis,88,3,13.4,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,Hardik Pandya,Stoinis,89,3,13.5,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,Vijay Shankar,Stoinis,89,3,13.6,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,Hardik Pandya,Naveen-ul-Halaq,89,3,14.1,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,Hardik Pandya,Naveen-ul-Halaq,90,3,14.2,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,Vijay Shankar,Naveen-ul-Halaq,91,3,14.3,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,Hardik Pandya,Naveen-ul-Halaq,92,3,14.4,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,Vijay Shankar,Naveen-ul-Halaq,92,3,14.5,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,Vijay Shankar,Naveen-ul-Halaq,92,4,14.6,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,Hardik Pandya,Ravi Bishnoi,94,4,15.1,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,Hardik Pandya,Ravi Bishnoi,95,4,15.2,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,David Miller,Ravi Bishnoi,95,4,15.3,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,David Miller,Ravi Bishnoi,95,4,15.4,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,David Miller,Ravi Bishnoi,96,4,15.5,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,Hardik Pandya,Ravi Bishnoi,97,4,15.6,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,Hardik Pandya,Avesh Khan,97,4,16.1,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,Hardik Pandya,Avesh Khan,98,4,16.2,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,David Miller,Avesh Khan,98,4,16.3,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,David Miller,Avesh Khan,99,4,16.4,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,Hardik Pandya,Avesh Khan,101,4,16.5,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,Hardik Pandya,Avesh Khan,102,4,16.6,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,Hardik Pandya,Ravi Bishnoi,103,4,17.1,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,David Miller,Ravi Bishnoi,104,4,17.2,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,Hardik Pandya,Ravi Bishnoi,108,4,17.3,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,Hardik Pandya,Ravi Bishnoi,114,4,17.4,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,Hardik Pandya,Ravi Bishnoi,120,4,17.5,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,Hardik Pandya,Ravi Bishnoi,121,4,17.6,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,Hardik Pandya,Naveen-ul-Halaq,122,4,18.1,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,David Miller,Naveen-ul-Halaq,123,4,18.2,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,Hardik Pandya,Naveen-ul-Halaq,124,4,18.3,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,David Miller,Naveen-ul-Halaq,124,4,18.4,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,David Miller,Naveen-ul-Halaq,124,4,18.5,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,David Miller,Naveen-ul-Halaq,126,4,18.6,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,Hardik Pandya,Stoinis,132,4,19.1,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,Hardik Pandya,Stoinis,132,5,19.2,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,Rahul Tewatia,Stoinis,133,5,19.3,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,David Miller,Stoinis,134,5,19.4,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,Rahul Tewatia,Stoinis,135,5,19.5,,,,,135
+30,22-04-2023,Ekana Sports City,Gujarat-Titans,Lucknow Super Gaints,David Miller,Stoinis,135,6,19.6,,,,,135
+,,,,,,,,,,,,,,
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,saha,Arjun Tendulkar,0,0,0.1,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,saha,Arjun Tendulkar,0,0,0.2,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,saha,Arjun Tendulkar,3,0,0.3,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,gill,Arjun Tendulkar,4,0,0.4,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,saha,Arjun Tendulkar,4,0,0.5,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,saha,Arjun Tendulkar,4,0,0.6,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,gill,Behrendorff,4,0,1.1,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,gill,Behrendorff,4,0,1.2,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,gill,Behrendorff,8,0,1.3,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,gill,Behrendorff,10,0,1.4,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,gill,Behrendorff,11,0,1.5,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,saha,Behrendorff,12,0,1.6,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,saha,Arjun Tendulkar,12,1,2.1,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,Hardik Pandya,Arjun Tendulkar,12,1,2.2,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,Hardik Pandya,Arjun Tendulkar,12,1,2.3,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,Hardik Pandya,Arjun Tendulkar,14,1,2.4,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,Hardik Pandya,Arjun Tendulkar,16,1,2.5,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,Hardik Pandya,Arjun Tendulkar,17,1,2.6,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,Hardik Pandya,Behrendorff,17,1,3.1,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,Hardik Pandya,Behrendorff,17,1,3.2,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,Hardik Pandya,Behrendorff,17,1,3.3,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,Hardik Pandya,Behrendorff,18,1,3.4,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,gill,Behrendorff,19,1,3.5,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,Hardik Pandya,Behrendorff,23,1,3.6,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,gill,Meredith,23,1,4.1,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,gill,Meredith,27,1,4.2,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,gill,Meredith,28,1,4.3,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,gill,Meredith,29,1,4.3,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,Hardik Pandya,Meredith,30,1,4.4,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,gill,Meredith,30,1,4.5,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,gill,Meredith,31,1,4.6,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,gill,Meredith,33,1,4.6,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,Hardik Pandya,Cameron Green,34,1,5.1,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,gill,Cameron Green,38,1,5.2,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,gill,Cameron Green,42,1,5.3,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,gill,Cameron Green,48,1,5.4,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,gill,Cameron Green,49,1,5.5,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,Hardik Pandya,Cameron Green,50,1,5.6,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,Hardik Pandya,Piyush Chawla,50,2,6.1,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,Vijay Shankar,Piyush Chawla,51,2,6.2,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,Vijay Shankar,Piyush Chawla,52,2,6.2,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,gill,Piyush Chawla,52,2,6.3,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,gill,Piyush Chawla,53,2,6.4,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,Vijay Shankar,Piyush Chawla,54,2,6.5,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,gill,Piyush Chawla,55,2,6.6,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,gill,Karthikeya,57,2,7.1,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,gill,Karthikeya,59,2,7.2,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,gill,Karthikeya,59,2,7.3,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,gill,Karthikeya,60,2,7.4,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,Vijay Shankar,Karthikeya,60,2,7.5,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,Vijay Shankar,Karthikeya,60,2,7.6,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,gill,Piyush Chawla,64,2,8.1,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,gill,Piyush Chawla,64,2,8.2,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,gill,Piyush Chawla,64,2,8.3,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,gill,Piyush Chawla,66,2,8.4,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,gill,Piyush Chawla,67,2,8.5,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,Vijay Shankar,Piyush Chawla,68,2,8.6,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,Vijay Shankar,Karthikeya,68,2,9.1,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,Vijay Shankar,Karthikeya,72,2,9.2,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,Vijay Shankar,Karthikeya,78,2,9.3,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,Vijay Shankar,Karthikeya,79,2,9.4,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,gill,Karthikeya,83,2,9.5,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,gill,Karthikeya,84,2,9.6,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,gill,Meredith,85,2,10.1,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,Vijay Shankar,Meredith,85,2,10.2,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,Vijay Shankar,Meredith,85,2,10.3,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,Vijay Shankar,Meredith,86,2,10.4,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,gill,Meredith,90,2,10.5,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,gill,Meredith,91,2,10.6,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,gill,Karthikeya,91,3,11.1,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,David Miller,Karthikeya,92,3,11.2,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,Vijay Shankar,Karthikeya,93,3,11.3,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,David Miller,Karthikeya,94,3,11.4,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,Vijay Shankar,Karthikeya,95,3,11.5,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,David Miller,Karthikeya,99,3,11.6,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,Vijay Shankar,Piyush Chawla,101,3,12.1,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,Vijay Shankar,Piyush Chawla,101,4,12.2,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,Abhinav Manohar,Piyush Chawla,101,4,12.3,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,Abhinav Manohar,Piyush Chawla,101,4,12.4,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,Abhinav Manohar,Piyush Chawla,102,4,12.5,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,David Miller,Piyush Chawla,103,4,12.6,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,David Miller,Karthikeya,105,4,13.1,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,David Miller,Karthikeya,111,4,13.2,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,David Miller,Karthikeya,111,4,13.3,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,David Miller,Karthikeya,112,4,13.4,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,Abhinav Manohar,Karthikeya,112,4,13.5,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,Abhinav Manohar,Karthikeya,113,4,13.6,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,Abhinav Manohar,Piyush Chawla,117,4,14.1,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,Abhinav Manohar,Piyush Chawla,121,4,14.2,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,Abhinav Manohar,Piyush Chawla,122,4,14.3,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,David Miller,Piyush Chawla,123,4,14.4,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,Abhinav Manohar,Piyush Chawla,129,4,14.5,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,Abhinav Manohar,Piyush Chawla,130,4,14.6,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,Abhinav Manohar,Behrendorff,131,4,15.1,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,David Miller,Behrendorff,132,4,15.2,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,Abhinav Manohar,Behrendorff,133,4,15.3,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,David Miller,Behrendorff,134,4,15.4,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,David Miller,Behrendorff,135,4,15.4,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,Abhinav Manohar,Behrendorff,137,4,15.5,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,Abhinav Manohar,Behrendorff,137,4,15.6,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,David Miller,Meredith,138,4,16.1,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,Abhinav Manohar,Meredith,140,4,16.2,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,Abhinav Manohar,Meredith,144,4,16.3,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,Abhinav Manohar,Meredith,145,4,16.4,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,David Miller,Meredith,149,4,16.5,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,David Miller,Meredith,150,4,16.6,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,David Miller,Cameron Green,151,4,17.1,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,Abhinav Manohar,Cameron Green,157,4,17.2,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,Abhinav Manohar,Cameron Green,163,4,17.3,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,Abhinav Manohar,Cameron Green,164,4,17.4,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,David Miller,Cameron Green,166,4,17.5,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,David Miller,Cameron Green,172,4,17.6,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,Abhinav Manohar,Meredith,172,5,18.1,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,Rahul Tewatia,Meredith,178,5,18.2,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,Rahul Tewatia,Meredith,179,5,18.3,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,David Miller,Meredith,179,5,18.4,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,David Miller,Meredith,185,5,18.5,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,David Miller,Meredith,191,5,18.6,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,Rahul Tewatia,Behrendorff,192,5,19.1,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,Rahul Tewatia,Behrendorff,198,5,19.1,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,Rahul Tewatia,Behrendorff,204,5,19.2,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,Rahul Tewatia,Behrendorff,205,5,19.3,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,David Miller,Behrendorff,205,5,19.4,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,David Miller,Behrendorff,205,5,19.5,,,,,207
+35,25-04-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,Rashid Khan,Behrendorff,207,5,19.6,,,,,207
+,,,,,,,,,,,,,,
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,saha,Moshin Khan,0,0,0.1,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,saha,Moshin Khan,1,0,0.2,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,saha,Moshin Khan,0,0,0.2,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,saha,Moshin Khan,3,0,0.3,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,saha,Moshin Khan,4,0,0.4,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,saha,Moshin Khan,8,0,0.4,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,saha,Moshin Khan,12,0,0.5,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,saha,Moshin Khan,12,0,0.6,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,gill,Avesh Khan,13,0,1.1,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,saha,Avesh Khan,13,0,1.2,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,saha,Avesh Khan,13,0,1.3,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,saha,Avesh Khan,13,0,1.4,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,saha,Avesh Khan,19,0,1.5,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,saha,Avesh Khan,23,0,1.6,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,gill,Krunal Pandya,24,0,2.1,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,saha,Krunal Pandya,28,0,2.2,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,saha,Krunal Pandya,28,0,2.3,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,saha,Krunal Pandya,29,0,2.4,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,gill,Krunal Pandya,30,0,2.5,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,gill,Krunal Pandya,31,0,2.6,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,saha,Moshin Khan,37,0,3.1,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,saha,Moshin Khan,38,0,3.2,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,gill,Moshin Khan,39,0,3.3,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,saha,Moshin Khan,43,0,3.4,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,saha,Moshin Khan,49,0,3.5,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,saha,Moshin Khan,53,0,3.6,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,gill,Krunal Pandya,55,0,4.1,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,gill,Krunal Pandya,55,0,4.2,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,gill,Krunal Pandya,57,0,4.3,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,gill,Krunal Pandya,57,0,4.4,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,gill,Krunal Pandya,57,0,4.5,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,gill,Krunal Pandya,63,0,4.6,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,saha,Yash Thakur,69,0,5.1,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,saha,Yash Thakur,69,0,5.2,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,saha,Yash Thakur,70,0,5.3,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,gill,Yash Thakur,71,0,5.4,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,saha,Yash Thakur,72,0,5.5,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,gill,Yash Thakur,78,0,5.6,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,saha,Ravi Bishnoi,78,0,6.1,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,saha,Ravi Bishnoi,78,0,6.2,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,saha,Ravi Bishnoi,79,0,6.3,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,gill,Ravi Bishnoi,80,0,6.4,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,saha,Ravi Bishnoi,81,0,6.5,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,gill,Ravi Bishnoi,82,0,6.6,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,gill,Mayers,83,0,7.1,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,saha,Mayers,87,0,7.2,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,saha,Mayers,87,0,7.3,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,saha,Mayers,91,0,7.4,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,saha,Mayers,92,0,7.5,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,gill,Mayers,93,0,7.5,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,saha,Mayers,98,0,7.6,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,gill,Ravi Bishnoi,104,0,8.1,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,gill,Ravi Bishnoi,105,0,8.2,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,saha,Ravi Bishnoi,106,0,8.3,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,gill,Ravi Bishnoi,107,0,8.4,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,gill,Ravi Bishnoi,113,0,8.4,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,gill,Ravi Bishnoi,114,0,8.5,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,saha,Ravi Bishnoi,115,0,8.6,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,saha,Krunal Pandya,116,0,9.1,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,gill,Krunal Pandya,117,0,9.2,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,saha,Krunal Pandya,118,0,9.3,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,gill,Krunal Pandya,119,0,9.4,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,saha,Krunal Pandya,120,0,9.5,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,gill,Krunal Pandya,121,0,9.6,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,gill,Swapnil Singh,123,0,10.1,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,gill,Swapnil Singh,125,0,10.2,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,gill,Swapnil Singh,126,0,10.3,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,saha,Swapnil Singh,126,0,10.4,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,saha,Swapnil Singh,127,0,10.5,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,gill,Swapnil Singh,128,0,10.6,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,gill,Krunal Pandya,129,0,11.1,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,saha,Krunal Pandya,133,0,11.2,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,saha,Krunal Pandya,134,0,11.3,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,gill,Krunal Pandya,135,0,11.4,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,saha,Krunal Pandya,136,0,11.5,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,gill,Krunal Pandya,142,0,11.6,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,saha,Avesh Khan,142,1,12.1,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,Hardik Pandya,Avesh Khan,142,1,12.2,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,Hardik Pandya,Avesh Khan,142,1,12.3,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,Hardik Pandya,Avesh Khan,143,1,12.4,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,gill,Avesh Khan,144,1,12.5,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,Hardik Pandya,Avesh Khan,145,1,12.6,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,Hardik Pandya,Yash Thakur,146,1,13.1,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,gill,Yash Thakur,147,1,13.2,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,Hardik Pandya,Yash Thakur,148,1,13.3,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,gill,Yash Thakur,149,1,13.4,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,gill,Yash Thakur,150,1,13.4,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,Hardik Pandya,Yash Thakur,156,1,13.5,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,Hardik Pandya,Yash Thakur,156,1,13.6,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,gill,Stoinis,162,1,14.1,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,gill,Stoinis,163,1,14.2,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,Hardik Pandya,Stoinis,165,1,14.3,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,Hardik Pandya,Stoinis,169,1,14.4,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,Hardik Pandya,Stoinis,175,1,14.5,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,Hardik Pandya,Stoinis,176,1,14.6,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,Hardik Pandya,Moshin Khan,177,1,15.1,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,gill,Moshin Khan,178,1,15.2,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,Hardik Pandya,Moshin Khan,179,1,15.3,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,gill,Moshin Khan,183,1,15.4,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,gill,Moshin Khan,184,1,15.5,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,Hardik Pandya,Moshin Khan,184,2,15.6,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,gill,Avesh Khan,185,2,16.1,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,David Miller,Avesh Khan,186,2,16.2,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,gill,Avesh Khan,188,2,16.3,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,gill,Avesh Khan,192,2,16.4,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,gill,Avesh Khan,193,2,16.5,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,David Miller,Avesh Khan,194,2,16.6,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,David Miller,Yash Thakur,195,2,17.1,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,gill,Yash Thakur,196,2,17.2,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,David Miller,Yash Thakur,196,2,17.3,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,David Miller,Yash Thakur,200,2,17.4,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,David Miller,Yash Thakur,201,2,17.5,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,gill,Yash Thakur,202,2,17.6,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,gill,Avesh Khan,203,2,18.1,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,David Miller,Avesh Khan,204,2,18.2,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,gill,Avesh Khan,205,2,18.3,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,David Miller,Avesh Khan,211,2,18.4,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,David Miller,Avesh Khan,213,2,18.5,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,David Miller,Avesh Khan,213,2,18.6,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,gill,Yash Thakur,219,2,19.1,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,gill,Yash Thakur,219,2,19.2,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,gill,Yash Thakur,221,2,19.3,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,gill,Yash Thakur,222,2,19.4,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,David Miller,Yash Thakur,226,2,19.5,,,,,227
+51,07-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Lucknow Super Gaints,David Miller,Yash Thakur,227,2,19.6,,,,,227
+,,,,,,,,,,,,,,
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,saha,Bhuvaneshwar Kumar,0,0,0.1,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,saha,Bhuvaneshwar Kumar,0,0,0.2,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,saha,Bhuvaneshwar Kumar,0,1,0.3,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,sai sudharshan,Bhuvaneshwar Kumar,1,1,0.4,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,gill ,Bhuvaneshwar Kumar,4,1,0.5,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,sai sudharshan,Bhuvaneshwar Kumar,5,1,0.6,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,sai sudharshan,Macro Jansen,5,1,1.1,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,sai sudharshan,Macro Jansen,6,1,1.2,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,sai sudharshan,Macro Jansen,10,1,1.2,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,sai sudharshan,Macro Jansen,10,1,1.3,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,sai sudharshan,Macro Jansen,10,1,1.4,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,sai sudharshan,Macro Jansen,11,1,1.5,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,sai sudharshan,Macro Jansen,11,1,1.5,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,sai sudharshan,Macro Jansen,12,1,1.6,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,sai sudharshan,Macro Jansen,17,1,1.6,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,sai sudharshan,Macro Jansen,17,1,1.6,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,gill ,Bhuvaneshwar Kumar,21,1,2.1,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,gill ,Bhuvaneshwar Kumar,24,1,2.2,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,sai sudharshan,Bhuvaneshwar Kumar,27,1,2.3,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,sai sudharshan,Bhuvaneshwar Kumar,27,1,2.4,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,sai sudharshan,Bhuvaneshwar Kumar,28,1,2.5,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,sai sudharshan,Bhuvaneshwar Kumar,32,1,2.6,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,gill ,Fazalhaq Farooqi,32,1,3.1,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,gill ,Fazalhaq Farooqi,34,1,3.2,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,gill ,Fazalhaq Farooqi,38,1,3.3,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,gill ,Fazalhaq Farooqi,42,1,3.4,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,gill ,Fazalhaq Farooqi,48,1,3.5,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,gill ,Fazalhaq Farooqi,50,1,3.6,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,sai sudharshan,Macro Jansen,51,1,4.1,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,gill ,Macro Jansen,52,1,4.2,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,sai sudharshan,Macro Jansen,53,1,4.3,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,gill ,Macro Jansen,53,1,4.4,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,gill ,Macro Jansen,53,1,4.5,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,gill ,Macro Jansen,55,1,4.6,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,sai sudharshan,T Natarajan,55,1,5.1,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,sai sudharshan,T Natarajan,59,1,5.2,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,sai sudharshan,T Natarajan,60,1,5.3,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,gill ,T Natarajan,60,1,5.4,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,gill ,T Natarajan,64,1,5.5,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,sai sudharshan,T Natarajan,65,1,5.6,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,gill ,Markram,66,1,6.1,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,sai sudharshan,Markram,67,1,6.2,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,gill ,Markram,69,1,6.3,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,gill ,Markram,73,1,6.4,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,gill ,Markram,77,1,6.5,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,gill ,Markram,78,1,6.6,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,gill ,Markande,82,1,7.1,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,gill ,Markande,86,1,7.2,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,gill ,Markande,87,1,7.3,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,sai sudharshan,Markande,88,1,7.4,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,gill ,Markande,88,1,7.5,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,gill ,Markande,89,1,7.6,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,gill ,Fazalhaq Farooqi,89,1,8.1,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,gill ,Fazalhaq Farooqi,90,1,8.2,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,sai sudharshan,Fazalhaq Farooqi,91,1,8.3,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,gill ,Fazalhaq Farooqi,93,1,8.4,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,gill ,Fazalhaq Farooqi,94,1,8.5,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,sai sudharshan,Fazalhaq Farooqi,95,1,8.6,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,sai sudharshan,Markande,96,1,9.1,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,gill ,Markande,97,1,9.2,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,sai sudharshan,Markande,97,1,9.3,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,sai sudharshan,Markande,98,1,9.4,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,gill ,Markande,99,1,9.5,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,sai sudharshan,Markande,103,1,9.6,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,gill ,Macro Jansen,103,1,10.1,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,gill ,Macro Jansen,104,1,10.2,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,sai sudharshan,Macro Jansen,111,1,10.3,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,sai sudharshan,Macro Jansen,112,1,10.3,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,sai sudharshan,Macro Jansen,116,1,10.3,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,sai sudharshan,Macro Jansen,117,1,10.4,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,gill ,Macro Jansen,118,1,10.5,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,sai sudharshan,Macro Jansen,118,1,10.6,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,gill ,Abhishek Sharma,119,1,11.1,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,sai sudharshan,Abhishek Sharma,120,1,11.2,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,gill ,Abhishek Sharma,121,1,11.3,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,gill ,Abhishek Sharma,127,1,11.3,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,gill ,Abhishek Sharma,127,1,11.4,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,gill ,Abhishek Sharma,131,1,11.5,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,gill ,Abhishek Sharma,131,1,11.6,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,sai sudharshan,T Natarajan,132,1,12.1,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,gill ,T Natarajan,134,1,12.2,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,gill ,T Natarajan,135,1,12.3,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,sai sudharshan,T Natarajan,136,1,12.4,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,gill ,T Natarajan,138,1,12.5,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,gill ,T Natarajan,139,1,12.6,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,gill ,Markande,140,1,13.1,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,sai sudharshan,Markande,141,1,13.2,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,gill ,Markande,141,1,13.3,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,gill ,Markande,145,1,13.4,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,gill ,Markande,146,1,13.5,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,sai sudharshan,Markande,147,1,13.6,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,sai sudharshan,Macro Jansen,147,2,14.1,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,Hardik Pandya,Macro Jansen,147,2,14.2,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,Hardik Pandya,Macro Jansen,148,2,14.3,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,gill ,Macro Jansen,149,2,14.4,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,Hardik Pandya,Macro Jansen,153,2,14.5,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,Hardik Pandya,Macro Jansen,154,2,14.6,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,Hardik Pandya,Bhuvaneshwar Kumar,156,2,15.1,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,Hardik Pandya,Bhuvaneshwar Kumar,156,3,15.2,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,David Miller,Bhuvaneshwar Kumar,157,3,15.3,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,gill ,Bhuvaneshwar Kumar,161,3,15.4,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,gill,Bhuvaneshwar Kumar,162,3,15.5,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,David Miller,Bhuvaneshwar Kumar,163,3,15.6,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,David Miller,T Natarajan,164,3,16.1,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,gill,T Natarajan,165,3,16.2,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,David Miller,T Natarajan,169,3,16.3,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,David Miller,T Natarajan,169,4,16.4,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,Rahul Tewatia,T Natarajan,170,4,16.5,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,gill,T Natarajan,171,4,16.6,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,gill,Fazalhaq Farooqi,172,4,17.1,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,Rahul Tewatia,Fazalhaq Farooqi,173,4,17.2,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,Rahul Tewatia,Fazalhaq Farooqi,175,4,17.2,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,Rahul Tewatia,Fazalhaq Farooqi,175,5,17.3,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,shanaka,Fazalhaq Farooqi,176,5,17.4,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,gill,Fazalhaq Farooqi,177,5,17.5,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,shanaka,Fazalhaq Farooqi,178,5,17.6,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,shanaka,T Natarajan,179,5,18.1,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,gill,T Natarajan,180,5,18.2,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,shanaka,T Natarajan,180,5,18.3,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,shanaka,T Natarajan,184,5,18.4,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,shanaka,T Natarajan,185,5,18.5,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,gill,T Natarajan,186,5,18.6,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,gill,Bhuvaneshwar Kumar,186,6,19.1,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,Rashid Khan,Bhuvaneshwar Kumar,186,7,19.2,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,Noor Ahmad,Bhuvaneshwar Kumar,186,8,19.3,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,shanaka,Bhuvaneshwar Kumar,187,8,19.4,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,Shami,Bhuvaneshwar Kumar,187,9,19.5,,,,,188
+62,15-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Sunrisers Hydreabad,Mohit Sharma,Bhuvaneshwar Kumar,188,9,19.6,,,,,188
+,,,,,,,,,,,,,,
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,saha,Behrendorff,0,0,0.1,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,saha,Behrendorff,0,0,0.2,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,saha,Behrendorff,1,0,0.3,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,gill,Behrendorff,2,0,0.4,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,saha,Behrendorff,2,0,0.5,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,saha,Behrendorff,3,0,0.6,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,saha,Cameron Green,3,0,1.1,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,saha,Cameron Green,4,0,1.2,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,gill,Cameron Green,7,0,1.3,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,saha,Cameron Green,8,0,1.4,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,gill,Cameron Green,12,0,1.5,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,gill,Cameron Green,13,0,1.6,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,gill,Behrendorff,13,0,2.1,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,gill,Behrendorff,14,0,2.2,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,saha,Behrendorff,18,0,2.3,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,saha,Behrendorff,19,0,2.4,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,gill,Behrendorff,20,0,2.5,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,saha,Behrendorff,20,0,2.6,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,gill,Akash Madwal,22,0,3.1,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,gill,Akash Madwal,22,0,3.2,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,gill,Akash Madwal,22,0,3.3,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,gill,Akash Madwal,23,0,3.4,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,saha,Akash Madwal,23,0,3.5,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,saha,Akash Madwal,27,0,3.6,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,gill,Behrendorff,27,0,4.1,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,gill,Behrendorff,31,0,4.2,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,gill,Behrendorff,32,0,4.3,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,saha,Behrendorff,33,0,4.4,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,gill,Behrendorff,34,0,4.5,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,saha,Behrendorff,38,0,4.6,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,gill,Chris Jordan,38,0,5.1,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,gill,Chris Jordan,39,0,5.2,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,gill,Chris Jordan,45,0,5.2,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,gill,Chris Jordan,49,0,5.3,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,gill,Chris Jordan,49,0,5.4,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,gill,Chris Jordan,50,0,5.5,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,saha,Chris Jordan,50,0,5.6,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,gill,Piyush Chawla,52,0,6.1,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,gill,Piyush Chawla,53,0,6.2,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,saha,Piyush Chawla,55,1,6.3,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,Sai Sudharshan,Piyush Chawla,56,1,6.3,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,Sai Sudharshan,Piyush Chawla,57,1,6.4,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,gill,Piyush Chawla,58,1,6.5,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,Sai Sudharshan,Piyush Chawla,59,1,6.6,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,Sai Sudharshan,Karthikeya,60,1,7.1,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,gill,Karthikeya,61,1,7.2,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,Sai Sudharshan,Karthikeya,62,1,7.3,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,gill,Karthikeya,62,1,7.4,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,gill,Karthikeya,63,1,7.5,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,Sai Sudharshan,Karthikeya,64,1,7.6,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,Sai Sudharshan,Piyush Chawla,68,1,8.1,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,Sai Sudharshan,Piyush Chawla,69,1,8.2,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,gill,Piyush Chawla,75,1,8.3,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,gill,Piyush Chawla,77,1,8.4,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,gill,Piyush Chawla,79,1,8.5,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,gill,Piyush Chawla,80,1,8.6,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,gill,Karthikeya,81,1,9.1,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,Sai Sudharshan,Karthikeya,82,1,9.2,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,gill,Karthikeya,83,1,9.3,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,Sai Sudharshan,Karthikeya,84,1,9.4,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,gill,Karthikeya,90,1,9.5,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,gill,Karthikeya,91,1,9.6,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,gill,Cameron Green,92,1,10.1,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,Sai Sudharshan,Cameron Green,96,1,10.2,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,Sai Sudharshan,Cameron Green,97,1,10.3,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,gill,Cameron Green,97,1,10.4,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,gill,Cameron Green,98,1,10.5,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,Sai Sudharshan,Cameron Green,98,1,10.6,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,gill,Akash Madwal,104,1,11.1,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,gill,Akash Madwal,110,1,11.2,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,gill,Akash Madwal,111,1,11.3,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,Sai Sudharshan,Akash Madwal,112,1,11.4,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,gill,Akash Madwal,118,1,11.5,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,gill,Akash Madwal,119,1,11.6,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,gill,Piyush Chawla,125,1,12.1,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,gill,Piyush Chawla,127,1,12.2,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,gill,Piyush Chawla,131,1,12.3,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,gill,Piyush Chawla,137,1,12.4,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,gill,Piyush Chawla,138,1,12.5,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,Sai Sudharshan,Piyush Chawla,139,1,12.6,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,Sai Sudharshan,Chris Jordan,140,1,13.1,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,gill,Chris Jordan,141,1,13.2,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,Sai Sudharshan,Chris Jordan,147,1,13.3,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,Sai Sudharshan,Chris Jordan,147,1,13.4,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,Sai Sudharshan,Chris Jordan,147,1,13.5,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,Sai Sudharshan,Chris Jordan,147,1,13.6,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,gill,Cameron Green,148,1,14.1,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,Sai Sudharshan,Cameron Green,149,1,14.2,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,gill,Cameron Green,155,1,14.3,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,gill,Cameron Green,159,1,14.4,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,gill,Cameron Green,165,1,14.5,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,gill,Cameron Green,166,1,14.6,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,gill,Chris Jordan,167,1,15.1,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,gill,Chris Jordan,171,1,15.1,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,gill,Chris Jordan,172,1,15.2,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,gill,Chris Jordan,173,1,15.2,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,Sai Sudharshan,Chris Jordan,174,1,15.3,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,gill,Chris Jordan,175,1,15.4,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,Sai Sudharshan,Chris Jordan,179,1,15.5,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,Sai Sudharshan,Chris Jordan,183,1,15.6,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,gill,Akash Madwal,184,1,16.1,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,Sai Sudharshan,Akash Madwal,185,1,16.2,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,gill,Akash Madwal,189,1,16.3,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,gill,Akash Madwal,190,1,16.4,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,Sai Sudharshan,Akash Madwal,191,1,16.4,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,gill,Akash Madwal,191,2,16.5,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,Hardik Pandya,Akash Madwal,195,2,16.6,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,Hardik Pandya,Akash Madwal,198,2,16.6,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,Hardik Pandya,Behrendorff,198,2,17.1,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,Hardik Pandya,Behrendorff,199,2,17.2,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,Sai Sudharshan,Behrendorff,199,2,17.3,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,Sai Sudharshan,Behrendorff,200,2,17.4,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,Hardik Pandya,Behrendorff,201,2,17.5,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,Sai Sudharshan,Behrendorff,205,2,17.6,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,Hardik Pandya,Akash Madwal,211,2,18.1,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,Hardik Pandya,Akash Madwal,213,2,18.2,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,Hardik Pandya,Akash Madwal,213,2,18.3,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,Hardik Pandya,Akash Madwal,214,2,18.4,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,Sai Sudharshan,Akash Madwal,214,2,18.5,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,Sai Sudharshan,Akash Madwal,214,3,18.6,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,Hardik Pandya,Chris Jordan,215,3,19.1,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,Rashid Khan,Chris Jordan,219,3,19.2,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,Rashid Khan,Chris Jordan,220,3,19.3,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,Hardik Pandya,Chris Jordan,221,3,19.4,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,Rashid Khan,Chris Jordan,223,3,19.5,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,Hardik Pandya,Chris Jordan,227,3,19.5,,,,,233
+73,26-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Mumbai Indians,Hardik Pandya,Chris Jordan,233,3,19.6,,,,,233
+,,,,,,,,,,,,,,
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,saha,Deepak Chahar,0,0,0.1,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,saha,Deepak Chahar,0,0,0.2,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,saha,Deepak Chahar,1,0,0.3,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,gill,Deepak Chahar,2,0,0.4,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,saha,Deepak Chahar,3,0,0.5,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,gill,Deepak Chahar,4,0,0.6,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,gill,Tushar Deshpande,4,0,1.1,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,gill,Tushar Deshpande,5,0,1.2,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,saha,Tushar Deshpande,6,0,1.3,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,gill,Tushar Deshpande,7,0,1.4,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,saha,Tushar Deshpande,7,0,1.5,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,saha,Tushar Deshpande,8,0,1.6,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,saha,Deepak Chahar,14,0,2.1,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,saha,Deepak Chahar,14,0,2.2,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,saha,Deepak Chahar,18,0,2.3,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,saha,Deepak Chahar,22,0,2.4,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,saha,Deepak Chahar,24,0,2.5,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,saha,Deepak Chahar,24,0,2.6,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,gill,Tushar Deshpande,28,0,3.1,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,gill,Tushar Deshpande,32,0,3.2,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,gill,Tushar Deshpande,36,0,3.3,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,gill,Tushar Deshpande,37,0,3.4,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,saha,Tushar Deshpande,38,0,3.5,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,gilll,Tushar Deshpande,38,0,3.6,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,saha,Deepak Chahar,39,0,4.1,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,gill,Deepak Chahar,41,0,4.2,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,gill,Deepak Chahar,45,0,4.3,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,gill,Deepak Chahar,46,0,4.4,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,saha,Deepak Chahar,48,0,4.5,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,saha,Deepak Chahar,49,0,4.6,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,saha,Maheesh Theekshana,49,0,5.1,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,saha,Maheesh Theekshana,50,0,5.2,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,gill,Maheesh Theekshana,54,0,5.3,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,gill,Maheesh Theekshana,58,0,5.4,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,gill,Maheesh Theekshana,62,0,5.5,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,gill,Maheesh Theekshana,62,0,5.6,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,saha,Ravindra Jadeja,63,0,6.1,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,gill,Ravindra Jadeja,65,0,6.2,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,gill,Ravindra Jadeja,66,0,6.3,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,saha,Ravindra Jadeja,66,0,6.4,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,saha,Ravindra Jadeja,67,0,6.5,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,gill,Ravindra Jadeja,67,1,6.6,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,saha,Maheesh Theekshana,68,1,7.1,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,Sai Sudharshan,Maheesh Theekshana,69,1,7.2,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,saha,Maheesh Theekshana,70,1,7.3,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,Sai Sudharshan,Maheesh Theekshana,70,1,7.4,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,Sai Sudharshan,Maheesh Theekshana,71,1,7.5,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,saha,Maheesh Theekshana,72,1,7.6,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,saha,Ravindra Jadeja,76,1,8.1,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,saha,Ravindra Jadeja,77,1,8.2,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,Sai Sudharshan,Ravindra Jadeja,78,1,8.3,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,saha,Ravindra Jadeja,79,1,8.4,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,Sai Sudharshan,Ravindra Jadeja,79,1,8.5,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,Sai Sudharshan,Ravindra Jadeja,80,1,8.6,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,saha,Maheesh Theekshana,81,1,9.1,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,Sai Sudharshan,Maheesh Theekshana,82,1,9.2,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,Sai Sudharshan,Maheesh Theekshana,82,1,9.3,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,Sai Sudharshan,Maheesh Theekshana,83,1,9.4,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,saha,Maheesh Theekshana,85,1,9.5,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,saha,Maheesh Theekshana,86,1,9.6,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,saha,Ravindra Jadeja,90,1,10.1,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,saha,Ravindra Jadeja,91,1,10.2,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,Sai Sudharshan,Ravindra Jadeja,93,1,10.3,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,Sai Sudharshan,Ravindra Jadeja,94,1,10.4,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,saha,Ravindra Jadeja,95,1,10.5,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,Sai Sudharshan,Ravindra Jadeja,96,1,10.6,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,Sai Sudharshan,Pathirana,100,1,11.1,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,Sai Sudharshan,Pathirana,101,1,11.2,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,Sai Sudharshan,Pathirana,105,1,11.2,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,Sai Sudharshan,Pathirana,106,1,11.3,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,saha,Pathirana,107,1,11.4,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,saha,Pathirana,108,1,11.4,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,Sai Sudharshan,Pathirana,108,1,11.5,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,Sai Sudharshan,Pathirana,109,1,11.6,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,Sai Sudharshan,Ravindra Jadeja,111,1,12.1,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,Sai Sudharshan,Ravindra Jadeja,112,1,12.2,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,saha,Ravindra Jadeja,116,1,12.3,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,saha,Ravindra Jadeja,117,1,12.4,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,Sai Sudharshan,Ravindra Jadeja,123,1,12.5,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,Sai Sudharshan,Ravindra Jadeja,124,1,12.6,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,Sai Sudharshan,Deepak Chahar,126,1,13.1,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,Sai Sudharshan,Deepak Chahar,128,1,13.2,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,Sai Sudharshan,Deepak Chahar,129,1,13.3,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,Sai Sudharshan,Deepak Chahar,130,1,13.4,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,saha,Deepak Chahar,131,1,13.5,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,Sai Sudharshan,Deepak Chahar,131,2,13.6,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,Sai Sudharshan,Maheesh Theekshana,131,2,14.1,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,Sai Sudharshan,Maheesh Theekshana,131,2,14.2,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,Sai Sudharshan,Maheesh Theekshana,137,2,14.3,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,Sai Sudharshan,Maheesh Theekshana,137,2,14.4,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,Sai Sudharshan,Maheesh Theekshana,143,2,14.5,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,Sai Sudharshan,Maheesh Theekshana,143,2,14.6,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,Hardik Pandya,Pathirana,144,2,15.1,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,Sai Sudharshan,Pathirana,144,2,15.2,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,Sai Sudharshan,Pathirana,148,2,15.3,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,Sai Sudharshan,Pathirana,152,2,15.4,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,Sai Sudharshan,Pathirana,153,2,15.5,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,Hardik Pandya,Pathirana,153,2,15.6,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,Sai Sudharshan,Tushar Deshpande,159,2,16.1,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,Sai Sudharshan,Tushar Deshpande,163,2,16.2,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,Sai Sudharshan,Tushar Deshpande,167,2,16.3,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,Sai Sudharshan,Tushar Deshpande,171,2,16.4,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,Sai Sudharshan,Tushar Deshpande,172,2,16.5,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,Hardik Pandya,Tushar Deshpande,173,2,16.6,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,Hardik Pandya,Pathirana,174,2,17.1,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,Sai Sudharshan,Pathirana,176,2,17.2,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,Sai Sudharshan,Pathirana,177,2,17.3,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,Hardik Pandya,Pathirana,179,2,17.4,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,Hardik Pandya,Pathirana,181,2,17.5,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,Hardik Pandya,Pathirana,182,2,17.6,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,Hardik Pandya,Tushar Deshpande,188,2,18.1,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,Hardik Pandya,Tushar Deshpande,188,2,18.2,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,Hardik Pandya,Tushar Deshpande,189,2,18.3,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,Sai Sudharshan,Tushar Deshpande,193,2,18.4,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,Sai Sudharshan,Tushar Deshpande,194,2,18.5,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,Hardik Pandya,Tushar Deshpande,200,2,18.6,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,Sai Sudharshan,Pathirana,206,2,19.1,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,Sai Sudharshan,Pathirana,212,2,19.2,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,Sai Sudharshan,Pathirana,212,3,19.3,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,Rashid Khan,Pathirana,213,3,19.4,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,Hardik Pandya,Pathirana,214,3,19.5,,,,,214
+74,29-05-2023,Narendra-Modi-stadium,Gujarat-Titans,Chennai Super Kings ,Rashid Khan,Pathirana,214,4,19.6,,,,,214
